@@ -1,0 +1,61 @@
+#israel{
+	background-image: url("img/israel.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+#italy{
+	background-image: url("img/italy.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+#holland{
+	background-image: url("img/holland.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+#france{
+	background-image: url("img/france.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+#usa{
+	background-image: url("img/usa.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+
+p{
+	display: none;
+}
+
+.costyle{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+	
+}
+
+.styleTwo p{
+	font-size: 25px;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 300px; 
+    font-weight:bold;
+    border: 2px solid black;
+    display: block;
+}
